@@ -88,7 +88,7 @@ Here's an example of editing text
 
 - Optionally, you can make a draft pull request.
 - You can stil make changes after creating pull request.
-- Let's wait for comments or merged into their repository!
+- Let's wait for comments or merging into the repository!
 
 ![select repository](./img/17.png)
 
