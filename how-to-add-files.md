@@ -72,7 +72,23 @@ Here's an example of editing text
 
 ![select repository](./img/13.png)
 
+### 14. Select `Pull requests` tab in your repository
 
+![select repository](./img/14.png)
 
+### 15. Click `New pull request` button to go to the original repository
 
+![select repository](./img/15.png)
+
+### 16. Now you can create pull request to the original repository
+
+![select repository](./img/16.png)
+
+### 17. Write some comments and click `Create pull request`
+
+- Optionally, you can make a draft pull request.
+- You can stil make changes after creating pull request.
+- Let's wait for comments or merged into their repository!
+
+![select repository](./img/17.png)
 
