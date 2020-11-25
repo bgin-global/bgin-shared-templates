@@ -8,7 +8,7 @@ This is a [link](https://github.com/bgin-global/bgin-shared-templates)
 
 Here's an example of editing text
 
-# Step-by-step tutorial for GitHub beginners
+# GitHub tutorial for beginners
 
 ## Table of Contents
 
